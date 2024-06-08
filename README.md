@@ -1,1 +1,2 @@
 # 3ColorGame
+ 3 Color Guess Game is a simple and entertaining Python project where the user has to guess the correct sequence of three colors chosen randomly by the computer from a predefined set. This game tests the user's memory and guessing skills, providing instant feedback on their guesses. The project is ideal for beginners to practice and understand basic programming concepts, including loops, conditionals, functions, and random number generation.
